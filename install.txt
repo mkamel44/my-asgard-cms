@@ -1,0 +1,4 @@
+1- composer install
+2- php artisan asgard:install
+note: you must insert username and password for database not use "root" user
+note: do not make .env here do every things
